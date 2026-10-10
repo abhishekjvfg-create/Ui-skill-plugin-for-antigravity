@@ -1,0 +1,19 @@
+{
+  "name": "atlas-studio-skillpack",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An honest, local-first Antigravity design skill and procedural recipe toolkit",
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=22" },
+  "bin": { "atlas-studio": "skills/atlas-studio/scripts/atlas.mjs" },
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "catalogs": "node scripts/build-catalogs.mjs",
+    "seal": "node scripts/seal.mjs",
+    "verify": "node skills/atlas-studio/scripts/atlas.mjs doctor",
+    "install:skill": "node scripts/install.mjs",
+    "example": "node skills/atlas-studio/scripts/atlas.mjs scaffold --out ./generated-demo --prompt \"Premium energy drink product website\"",
+    "package": "node scripts/package.mjs"
+  }
+}

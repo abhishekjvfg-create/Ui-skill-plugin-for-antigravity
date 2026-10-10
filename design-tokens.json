@@ -1,0 +1,28 @@
+{
+  "color": {
+    "background": "#100b20",
+    "text": "#ffffff",
+    "accent": "#bc8cff",
+    "onAccent": "#000000"
+  },
+  "spacing": [
+    4,
+    8,
+    12,
+    16,
+    24,
+    32,
+    48,
+    64,
+    96
+  ],
+  "radius": [
+    4,
+    12,
+    24
+  ],
+  "font": {
+    "display": "system sans-serif",
+    "body": "system sans-serif"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "scene-ingredient-burst-basil",
+  "layout": "ingredient-burst",
+  "treatment": {
+    "id": "basil",
+    "background": "#101c12",
+    "accent": "#91bb71",
+    "secondary": "#efd878",
+    "metalness": 0.1,
+    "roughness": 0.48
+  },
+  "budget": {
+    "dpr": 1.5,
+    "desktopDrawCalls": 100,
+    "mobileDrawCalls": 60
+  },
+  "renderer": "three@0.180.0",
+  "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+  "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+  "tags": [
+    "ingredient-burst",
+    "basil",
+    "threejs",
+    "3d",
+    "sculpture"
+  ]
+}

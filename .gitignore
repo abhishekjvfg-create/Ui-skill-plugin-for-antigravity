@@ -1,0 +1,14 @@
+node_modules/
+generated-demo/
+generated-gallery/
+my-library/
+.tmp-*/
+.test-tmp/
+.env
+.env.*
+.dev.vars
+.dev.vars.*
+*.log
+*.zip
+*.sha256
+.DS_Store

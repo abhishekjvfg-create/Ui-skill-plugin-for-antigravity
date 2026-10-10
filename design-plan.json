@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "brief": "Premium product website",
+  "mode": "deterministic starter plan; no AI or external generation called",
+  "direction": "Dark product theatre and oversized typography",
+  "scene": "scene-can-hero-litchi",
+  "palette": "palette-270-1",
+  "typography": {
+    "display": "sans-serif",
+    "body": "system-ui",
+    "fontCatalogHint": "Search fonts by family or script; load at most two families after license review"
+  },
+  "sections": [
+    "navigation",
+    "hero",
+    "features",
+    "product-details",
+    "faq",
+    "contact"
+  ],
+  "workflow": [
+    "art-direction",
+    "design-tokens",
+    "three-foundations",
+    "motion-choreography",
+    "accessibility",
+    "visual-qa",
+    "performance",
+    "bug-fixing"
+  ],
+  "budgets": {
+    "maxIterations": 3,
+    "maxExternalGenerations": 0,
+    "maxMinutes": 30,
+    "maxDpr": 1.5,
+    "targetLCPms": 2500,
+    "targetCLS": 0.1,
+    "targetINPms": 200
+  },
+  "acceptance": [
+    "No console errors",
+    "Meaningful keyboard navigation",
+    "360 / 768 / 1440px screenshots",
+    "Reduced-motion and WebGL-off fallback",
+    "No fake submission success",
+    "Report measured results and remaining gaps"
+  ],
+  "limitations": [
+    "Not equivalent to Figma or a model upgrade",
+    "High-end realism requires licensed GLB/HDR assets or approved image/video generation",
+    "Do not run indefinitely; checkpoint before the budget expires"
+  ]
+}
