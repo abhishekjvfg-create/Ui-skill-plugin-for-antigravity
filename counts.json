@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-09",
+  "nativeSkills": 1,
+  "workflowModules": 37,
+  "counts": {
+    "structures": 5400,
+    "motions": 600,
+    "scenes": 120,
+    "backgrounds": 120,
+    "ui": 1600,
+    "palettes": 1200,
+    "fonts": 1950
+  },
+  "baseFamilies": {
+    "structures": 30,
+    "motions": 24,
+    "scenes": 12,
+    "backgrounds": 12,
+    "ui": 32,
+    "palettes": "120 hue anchors × 10 treatments"
+  },
+  "methodology": "Deterministic parameterized recipes; not independently authored skills or unique finished designs. Fonts are real upstream metadata, not font binaries.",
+  "potentialUIThemeMotionCombinations": 1152000000
+}

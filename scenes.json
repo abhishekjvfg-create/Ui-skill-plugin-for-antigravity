@@ -1,0 +1,3242 @@
+[
+  {
+    "id": "scene-can-hero-litchi",
+    "layout": "can-hero",
+    "treatment": {
+      "id": "litchi",
+      "background": "#100b20",
+      "accent": "#bc8cff",
+      "secondary": "#ecb6df",
+      "metalness": 0.7,
+      "roughness": 0.24
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-hero",
+      "litchi",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-hero-citrus",
+    "layout": "can-hero",
+    "treatment": {
+      "id": "citrus",
+      "background": "#161808",
+      "accent": "#c6ec55",
+      "secondary": "#f6b651",
+      "metalness": 0.4,
+      "roughness": 0.32
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-hero",
+      "citrus",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-hero-cherry",
+    "layout": "can-hero",
+    "treatment": {
+      "id": "cherry",
+      "background": "#230b12",
+      "accent": "#fc718a",
+      "secondary": "#dcbbff",
+      "metalness": 0.6,
+      "roughness": 0.26
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-hero",
+      "cherry",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-hero-arctic",
+    "layout": "can-hero",
+    "treatment": {
+      "id": "arctic",
+      "background": "#081723",
+      "accent": "#78dcff",
+      "secondary": "#bfdcff",
+      "metalness": 0.8,
+      "roughness": 0.18
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-hero",
+      "arctic",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-hero-cacao",
+    "layout": "can-hero",
+    "treatment": {
+      "id": "cacao",
+      "background": "#25160f",
+      "accent": "#c79973",
+      "secondary": "#dc8f98",
+      "metalness": 0.15,
+      "roughness": 0.35
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-hero",
+      "cacao",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-hero-basil",
+    "layout": "can-hero",
+    "treatment": {
+      "id": "basil",
+      "background": "#101c12",
+      "accent": "#91bb71",
+      "secondary": "#efd878",
+      "metalness": 0.1,
+      "roughness": 0.48
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-hero",
+      "basil",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-hero-pearl",
+    "layout": "can-hero",
+    "treatment": {
+      "id": "pearl",
+      "background": "#e9e5df",
+      "accent": "#797298",
+      "secondary": "#ad607e",
+      "metalness": 0.35,
+      "roughness": 0.28
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-hero",
+      "pearl",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-hero-cobalt",
+    "layout": "can-hero",
+    "treatment": {
+      "id": "cobalt",
+      "background": "#060e2c",
+      "accent": "#6f9bff",
+      "secondary": "#f58df6",
+      "metalness": 0.8,
+      "roughness": 0.22
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-hero",
+      "cobalt",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-hero-copper",
+    "layout": "can-hero",
+    "treatment": {
+      "id": "copper",
+      "background": "#1e1211",
+      "accent": "#e3a377",
+      "secondary": "#9cb7a0",
+      "metalness": 0.9,
+      "roughness": 0.29
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-hero",
+      "copper",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-hero-graphite",
+    "layout": "can-hero",
+    "treatment": {
+      "id": "graphite",
+      "background": "#111416",
+      "accent": "#b8c5cc",
+      "secondary": "#98a791",
+      "metalness": 0.95,
+      "roughness": 0.3
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-hero",
+      "graphite",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-carousel-litchi",
+    "layout": "can-carousel",
+    "treatment": {
+      "id": "litchi",
+      "background": "#100b20",
+      "accent": "#bc8cff",
+      "secondary": "#ecb6df",
+      "metalness": 0.7,
+      "roughness": 0.24
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-carousel",
+      "litchi",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-carousel-citrus",
+    "layout": "can-carousel",
+    "treatment": {
+      "id": "citrus",
+      "background": "#161808",
+      "accent": "#c6ec55",
+      "secondary": "#f6b651",
+      "metalness": 0.4,
+      "roughness": 0.32
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-carousel",
+      "citrus",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-carousel-cherry",
+    "layout": "can-carousel",
+    "treatment": {
+      "id": "cherry",
+      "background": "#230b12",
+      "accent": "#fc718a",
+      "secondary": "#dcbbff",
+      "metalness": 0.6,
+      "roughness": 0.26
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-carousel",
+      "cherry",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-carousel-arctic",
+    "layout": "can-carousel",
+    "treatment": {
+      "id": "arctic",
+      "background": "#081723",
+      "accent": "#78dcff",
+      "secondary": "#bfdcff",
+      "metalness": 0.8,
+      "roughness": 0.18
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-carousel",
+      "arctic",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-carousel-cacao",
+    "layout": "can-carousel",
+    "treatment": {
+      "id": "cacao",
+      "background": "#25160f",
+      "accent": "#c79973",
+      "secondary": "#dc8f98",
+      "metalness": 0.15,
+      "roughness": 0.35
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-carousel",
+      "cacao",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-carousel-basil",
+    "layout": "can-carousel",
+    "treatment": {
+      "id": "basil",
+      "background": "#101c12",
+      "accent": "#91bb71",
+      "secondary": "#efd878",
+      "metalness": 0.1,
+      "roughness": 0.48
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-carousel",
+      "basil",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-carousel-pearl",
+    "layout": "can-carousel",
+    "treatment": {
+      "id": "pearl",
+      "background": "#e9e5df",
+      "accent": "#797298",
+      "secondary": "#ad607e",
+      "metalness": 0.35,
+      "roughness": 0.28
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-carousel",
+      "pearl",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-carousel-cobalt",
+    "layout": "can-carousel",
+    "treatment": {
+      "id": "cobalt",
+      "background": "#060e2c",
+      "accent": "#6f9bff",
+      "secondary": "#f58df6",
+      "metalness": 0.8,
+      "roughness": 0.22
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-carousel",
+      "cobalt",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-carousel-copper",
+    "layout": "can-carousel",
+    "treatment": {
+      "id": "copper",
+      "background": "#1e1211",
+      "accent": "#e3a377",
+      "secondary": "#9cb7a0",
+      "metalness": 0.9,
+      "roughness": 0.29
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-carousel",
+      "copper",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-carousel-graphite",
+    "layout": "can-carousel",
+    "treatment": {
+      "id": "graphite",
+      "background": "#111416",
+      "accent": "#b8c5cc",
+      "secondary": "#98a791",
+      "metalness": 0.95,
+      "roughness": 0.3
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-carousel",
+      "graphite",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-helix-litchi",
+    "layout": "can-helix",
+    "treatment": {
+      "id": "litchi",
+      "background": "#100b20",
+      "accent": "#bc8cff",
+      "secondary": "#ecb6df",
+      "metalness": 0.7,
+      "roughness": 0.24
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-helix",
+      "litchi",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-helix-citrus",
+    "layout": "can-helix",
+    "treatment": {
+      "id": "citrus",
+      "background": "#161808",
+      "accent": "#c6ec55",
+      "secondary": "#f6b651",
+      "metalness": 0.4,
+      "roughness": 0.32
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-helix",
+      "citrus",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-helix-cherry",
+    "layout": "can-helix",
+    "treatment": {
+      "id": "cherry",
+      "background": "#230b12",
+      "accent": "#fc718a",
+      "secondary": "#dcbbff",
+      "metalness": 0.6,
+      "roughness": 0.26
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-helix",
+      "cherry",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-helix-arctic",
+    "layout": "can-helix",
+    "treatment": {
+      "id": "arctic",
+      "background": "#081723",
+      "accent": "#78dcff",
+      "secondary": "#bfdcff",
+      "metalness": 0.8,
+      "roughness": 0.18
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-helix",
+      "arctic",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-helix-cacao",
+    "layout": "can-helix",
+    "treatment": {
+      "id": "cacao",
+      "background": "#25160f",
+      "accent": "#c79973",
+      "secondary": "#dc8f98",
+      "metalness": 0.15,
+      "roughness": 0.35
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-helix",
+      "cacao",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-helix-basil",
+    "layout": "can-helix",
+    "treatment": {
+      "id": "basil",
+      "background": "#101c12",
+      "accent": "#91bb71",
+      "secondary": "#efd878",
+      "metalness": 0.1,
+      "roughness": 0.48
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-helix",
+      "basil",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-helix-pearl",
+    "layout": "can-helix",
+    "treatment": {
+      "id": "pearl",
+      "background": "#e9e5df",
+      "accent": "#797298",
+      "secondary": "#ad607e",
+      "metalness": 0.35,
+      "roughness": 0.28
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-helix",
+      "pearl",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-helix-cobalt",
+    "layout": "can-helix",
+    "treatment": {
+      "id": "cobalt",
+      "background": "#060e2c",
+      "accent": "#6f9bff",
+      "secondary": "#f58df6",
+      "metalness": 0.8,
+      "roughness": 0.22
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-helix",
+      "cobalt",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-helix-copper",
+    "layout": "can-helix",
+    "treatment": {
+      "id": "copper",
+      "background": "#1e1211",
+      "accent": "#e3a377",
+      "secondary": "#9cb7a0",
+      "metalness": 0.9,
+      "roughness": 0.29
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-helix",
+      "copper",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-can-helix-graphite",
+    "layout": "can-helix",
+    "treatment": {
+      "id": "graphite",
+      "background": "#111416",
+      "accent": "#b8c5cc",
+      "secondary": "#98a791",
+      "metalness": 0.95,
+      "roughness": 0.3
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "can-helix",
+      "graphite",
+      "threejs",
+      "3d",
+      "product"
+    ]
+  },
+  {
+    "id": "scene-bottle-studio-litchi",
+    "layout": "bottle-studio",
+    "treatment": {
+      "id": "litchi",
+      "background": "#100b20",
+      "accent": "#bc8cff",
+      "secondary": "#ecb6df",
+      "metalness": 0.7,
+      "roughness": 0.24
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "bottle-studio",
+      "litchi",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-bottle-studio-citrus",
+    "layout": "bottle-studio",
+    "treatment": {
+      "id": "citrus",
+      "background": "#161808",
+      "accent": "#c6ec55",
+      "secondary": "#f6b651",
+      "metalness": 0.4,
+      "roughness": 0.32
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "bottle-studio",
+      "citrus",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-bottle-studio-cherry",
+    "layout": "bottle-studio",
+    "treatment": {
+      "id": "cherry",
+      "background": "#230b12",
+      "accent": "#fc718a",
+      "secondary": "#dcbbff",
+      "metalness": 0.6,
+      "roughness": 0.26
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "bottle-studio",
+      "cherry",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-bottle-studio-arctic",
+    "layout": "bottle-studio",
+    "treatment": {
+      "id": "arctic",
+      "background": "#081723",
+      "accent": "#78dcff",
+      "secondary": "#bfdcff",
+      "metalness": 0.8,
+      "roughness": 0.18
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "bottle-studio",
+      "arctic",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-bottle-studio-cacao",
+    "layout": "bottle-studio",
+    "treatment": {
+      "id": "cacao",
+      "background": "#25160f",
+      "accent": "#c79973",
+      "secondary": "#dc8f98",
+      "metalness": 0.15,
+      "roughness": 0.35
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "bottle-studio",
+      "cacao",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-bottle-studio-basil",
+    "layout": "bottle-studio",
+    "treatment": {
+      "id": "basil",
+      "background": "#101c12",
+      "accent": "#91bb71",
+      "secondary": "#efd878",
+      "metalness": 0.1,
+      "roughness": 0.48
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "bottle-studio",
+      "basil",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-bottle-studio-pearl",
+    "layout": "bottle-studio",
+    "treatment": {
+      "id": "pearl",
+      "background": "#e9e5df",
+      "accent": "#797298",
+      "secondary": "#ad607e",
+      "metalness": 0.35,
+      "roughness": 0.28
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "bottle-studio",
+      "pearl",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-bottle-studio-cobalt",
+    "layout": "bottle-studio",
+    "treatment": {
+      "id": "cobalt",
+      "background": "#060e2c",
+      "accent": "#6f9bff",
+      "secondary": "#f58df6",
+      "metalness": 0.8,
+      "roughness": 0.22
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "bottle-studio",
+      "cobalt",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-bottle-studio-copper",
+    "layout": "bottle-studio",
+    "treatment": {
+      "id": "copper",
+      "background": "#1e1211",
+      "accent": "#e3a377",
+      "secondary": "#9cb7a0",
+      "metalness": 0.9,
+      "roughness": 0.29
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "bottle-studio",
+      "copper",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-bottle-studio-graphite",
+    "layout": "bottle-studio",
+    "treatment": {
+      "id": "graphite",
+      "background": "#111416",
+      "accent": "#b8c5cc",
+      "secondary": "#98a791",
+      "metalness": 0.95,
+      "roughness": 0.3
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "bottle-studio",
+      "graphite",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-orb-orbit-litchi",
+    "layout": "orb-orbit",
+    "treatment": {
+      "id": "litchi",
+      "background": "#100b20",
+      "accent": "#bc8cff",
+      "secondary": "#ecb6df",
+      "metalness": 0.7,
+      "roughness": 0.24
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "orb-orbit",
+      "litchi",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-orb-orbit-citrus",
+    "layout": "orb-orbit",
+    "treatment": {
+      "id": "citrus",
+      "background": "#161808",
+      "accent": "#c6ec55",
+      "secondary": "#f6b651",
+      "metalness": 0.4,
+      "roughness": 0.32
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "orb-orbit",
+      "citrus",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-orb-orbit-cherry",
+    "layout": "orb-orbit",
+    "treatment": {
+      "id": "cherry",
+      "background": "#230b12",
+      "accent": "#fc718a",
+      "secondary": "#dcbbff",
+      "metalness": 0.6,
+      "roughness": 0.26
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "orb-orbit",
+      "cherry",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-orb-orbit-arctic",
+    "layout": "orb-orbit",
+    "treatment": {
+      "id": "arctic",
+      "background": "#081723",
+      "accent": "#78dcff",
+      "secondary": "#bfdcff",
+      "metalness": 0.8,
+      "roughness": 0.18
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "orb-orbit",
+      "arctic",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-orb-orbit-cacao",
+    "layout": "orb-orbit",
+    "treatment": {
+      "id": "cacao",
+      "background": "#25160f",
+      "accent": "#c79973",
+      "secondary": "#dc8f98",
+      "metalness": 0.15,
+      "roughness": 0.35
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "orb-orbit",
+      "cacao",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-orb-orbit-basil",
+    "layout": "orb-orbit",
+    "treatment": {
+      "id": "basil",
+      "background": "#101c12",
+      "accent": "#91bb71",
+      "secondary": "#efd878",
+      "metalness": 0.1,
+      "roughness": 0.48
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "orb-orbit",
+      "basil",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-orb-orbit-pearl",
+    "layout": "orb-orbit",
+    "treatment": {
+      "id": "pearl",
+      "background": "#e9e5df",
+      "accent": "#797298",
+      "secondary": "#ad607e",
+      "metalness": 0.35,
+      "roughness": 0.28
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "orb-orbit",
+      "pearl",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-orb-orbit-cobalt",
+    "layout": "orb-orbit",
+    "treatment": {
+      "id": "cobalt",
+      "background": "#060e2c",
+      "accent": "#6f9bff",
+      "secondary": "#f58df6",
+      "metalness": 0.8,
+      "roughness": 0.22
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "orb-orbit",
+      "cobalt",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-orb-orbit-copper",
+    "layout": "orb-orbit",
+    "treatment": {
+      "id": "copper",
+      "background": "#1e1211",
+      "accent": "#e3a377",
+      "secondary": "#9cb7a0",
+      "metalness": 0.9,
+      "roughness": 0.29
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "orb-orbit",
+      "copper",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-orb-orbit-graphite",
+    "layout": "orb-orbit",
+    "treatment": {
+      "id": "graphite",
+      "background": "#111416",
+      "accent": "#b8c5cc",
+      "secondary": "#98a791",
+      "metalness": 0.95,
+      "roughness": 0.3
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "orb-orbit",
+      "graphite",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-torus-knot-litchi",
+    "layout": "torus-knot",
+    "treatment": {
+      "id": "litchi",
+      "background": "#100b20",
+      "accent": "#bc8cff",
+      "secondary": "#ecb6df",
+      "metalness": 0.7,
+      "roughness": 0.24
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "torus-knot",
+      "litchi",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-torus-knot-citrus",
+    "layout": "torus-knot",
+    "treatment": {
+      "id": "citrus",
+      "background": "#161808",
+      "accent": "#c6ec55",
+      "secondary": "#f6b651",
+      "metalness": 0.4,
+      "roughness": 0.32
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "torus-knot",
+      "citrus",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-torus-knot-cherry",
+    "layout": "torus-knot",
+    "treatment": {
+      "id": "cherry",
+      "background": "#230b12",
+      "accent": "#fc718a",
+      "secondary": "#dcbbff",
+      "metalness": 0.6,
+      "roughness": 0.26
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "torus-knot",
+      "cherry",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-torus-knot-arctic",
+    "layout": "torus-knot",
+    "treatment": {
+      "id": "arctic",
+      "background": "#081723",
+      "accent": "#78dcff",
+      "secondary": "#bfdcff",
+      "metalness": 0.8,
+      "roughness": 0.18
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "torus-knot",
+      "arctic",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-torus-knot-cacao",
+    "layout": "torus-knot",
+    "treatment": {
+      "id": "cacao",
+      "background": "#25160f",
+      "accent": "#c79973",
+      "secondary": "#dc8f98",
+      "metalness": 0.15,
+      "roughness": 0.35
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "torus-knot",
+      "cacao",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-torus-knot-basil",
+    "layout": "torus-knot",
+    "treatment": {
+      "id": "basil",
+      "background": "#101c12",
+      "accent": "#91bb71",
+      "secondary": "#efd878",
+      "metalness": 0.1,
+      "roughness": 0.48
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "torus-knot",
+      "basil",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-torus-knot-pearl",
+    "layout": "torus-knot",
+    "treatment": {
+      "id": "pearl",
+      "background": "#e9e5df",
+      "accent": "#797298",
+      "secondary": "#ad607e",
+      "metalness": 0.35,
+      "roughness": 0.28
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "torus-knot",
+      "pearl",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-torus-knot-cobalt",
+    "layout": "torus-knot",
+    "treatment": {
+      "id": "cobalt",
+      "background": "#060e2c",
+      "accent": "#6f9bff",
+      "secondary": "#f58df6",
+      "metalness": 0.8,
+      "roughness": 0.22
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "torus-knot",
+      "cobalt",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-torus-knot-copper",
+    "layout": "torus-knot",
+    "treatment": {
+      "id": "copper",
+      "background": "#1e1211",
+      "accent": "#e3a377",
+      "secondary": "#9cb7a0",
+      "metalness": 0.9,
+      "roughness": 0.29
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "torus-knot",
+      "copper",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-torus-knot-graphite",
+    "layout": "torus-knot",
+    "treatment": {
+      "id": "graphite",
+      "background": "#111416",
+      "accent": "#b8c5cc",
+      "secondary": "#98a791",
+      "metalness": 0.95,
+      "roughness": 0.3
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "torus-knot",
+      "graphite",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-ingredient-burst-litchi",
+    "layout": "ingredient-burst",
+    "treatment": {
+      "id": "litchi",
+      "background": "#100b20",
+      "accent": "#bc8cff",
+      "secondary": "#ecb6df",
+      "metalness": 0.7,
+      "roughness": 0.24
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "ingredient-burst",
+      "litchi",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-ingredient-burst-citrus",
+    "layout": "ingredient-burst",
+    "treatment": {
+      "id": "citrus",
+      "background": "#161808",
+      "accent": "#c6ec55",
+      "secondary": "#f6b651",
+      "metalness": 0.4,
+      "roughness": 0.32
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "ingredient-burst",
+      "citrus",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-ingredient-burst-cherry",
+    "layout": "ingredient-burst",
+    "treatment": {
+      "id": "cherry",
+      "background": "#230b12",
+      "accent": "#fc718a",
+      "secondary": "#dcbbff",
+      "metalness": 0.6,
+      "roughness": 0.26
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "ingredient-burst",
+      "cherry",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-ingredient-burst-arctic",
+    "layout": "ingredient-burst",
+    "treatment": {
+      "id": "arctic",
+      "background": "#081723",
+      "accent": "#78dcff",
+      "secondary": "#bfdcff",
+      "metalness": 0.8,
+      "roughness": 0.18
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "ingredient-burst",
+      "arctic",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-ingredient-burst-cacao",
+    "layout": "ingredient-burst",
+    "treatment": {
+      "id": "cacao",
+      "background": "#25160f",
+      "accent": "#c79973",
+      "secondary": "#dc8f98",
+      "metalness": 0.15,
+      "roughness": 0.35
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "ingredient-burst",
+      "cacao",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-ingredient-burst-basil",
+    "layout": "ingredient-burst",
+    "treatment": {
+      "id": "basil",
+      "background": "#101c12",
+      "accent": "#91bb71",
+      "secondary": "#efd878",
+      "metalness": 0.1,
+      "roughness": 0.48
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "ingredient-burst",
+      "basil",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-ingredient-burst-pearl",
+    "layout": "ingredient-burst",
+    "treatment": {
+      "id": "pearl",
+      "background": "#e9e5df",
+      "accent": "#797298",
+      "secondary": "#ad607e",
+      "metalness": 0.35,
+      "roughness": 0.28
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "ingredient-burst",
+      "pearl",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-ingredient-burst-cobalt",
+    "layout": "ingredient-burst",
+    "treatment": {
+      "id": "cobalt",
+      "background": "#060e2c",
+      "accent": "#6f9bff",
+      "secondary": "#f58df6",
+      "metalness": 0.8,
+      "roughness": 0.22
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "ingredient-burst",
+      "cobalt",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-ingredient-burst-copper",
+    "layout": "ingredient-burst",
+    "treatment": {
+      "id": "copper",
+      "background": "#1e1211",
+      "accent": "#e3a377",
+      "secondary": "#9cb7a0",
+      "metalness": 0.9,
+      "roughness": 0.29
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "ingredient-burst",
+      "copper",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-ingredient-burst-graphite",
+    "layout": "ingredient-burst",
+    "treatment": {
+      "id": "graphite",
+      "background": "#111416",
+      "accent": "#b8c5cc",
+      "secondary": "#98a791",
+      "metalness": 0.95,
+      "roughness": 0.3
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "ingredient-burst",
+      "graphite",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-pasta-spiral-litchi",
+    "layout": "pasta-spiral",
+    "treatment": {
+      "id": "litchi",
+      "background": "#100b20",
+      "accent": "#bc8cff",
+      "secondary": "#ecb6df",
+      "metalness": 0.7,
+      "roughness": 0.24
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "pasta-spiral",
+      "litchi",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-pasta-spiral-citrus",
+    "layout": "pasta-spiral",
+    "treatment": {
+      "id": "citrus",
+      "background": "#161808",
+      "accent": "#c6ec55",
+      "secondary": "#f6b651",
+      "metalness": 0.4,
+      "roughness": 0.32
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "pasta-spiral",
+      "citrus",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-pasta-spiral-cherry",
+    "layout": "pasta-spiral",
+    "treatment": {
+      "id": "cherry",
+      "background": "#230b12",
+      "accent": "#fc718a",
+      "secondary": "#dcbbff",
+      "metalness": 0.6,
+      "roughness": 0.26
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "pasta-spiral",
+      "cherry",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-pasta-spiral-arctic",
+    "layout": "pasta-spiral",
+    "treatment": {
+      "id": "arctic",
+      "background": "#081723",
+      "accent": "#78dcff",
+      "secondary": "#bfdcff",
+      "metalness": 0.8,
+      "roughness": 0.18
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "pasta-spiral",
+      "arctic",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-pasta-spiral-cacao",
+    "layout": "pasta-spiral",
+    "treatment": {
+      "id": "cacao",
+      "background": "#25160f",
+      "accent": "#c79973",
+      "secondary": "#dc8f98",
+      "metalness": 0.15,
+      "roughness": 0.35
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "pasta-spiral",
+      "cacao",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-pasta-spiral-basil",
+    "layout": "pasta-spiral",
+    "treatment": {
+      "id": "basil",
+      "background": "#101c12",
+      "accent": "#91bb71",
+      "secondary": "#efd878",
+      "metalness": 0.1,
+      "roughness": 0.48
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "pasta-spiral",
+      "basil",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-pasta-spiral-pearl",
+    "layout": "pasta-spiral",
+    "treatment": {
+      "id": "pearl",
+      "background": "#e9e5df",
+      "accent": "#797298",
+      "secondary": "#ad607e",
+      "metalness": 0.35,
+      "roughness": 0.28
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "pasta-spiral",
+      "pearl",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-pasta-spiral-cobalt",
+    "layout": "pasta-spiral",
+    "treatment": {
+      "id": "cobalt",
+      "background": "#060e2c",
+      "accent": "#6f9bff",
+      "secondary": "#f58df6",
+      "metalness": 0.8,
+      "roughness": 0.22
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "pasta-spiral",
+      "cobalt",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-pasta-spiral-copper",
+    "layout": "pasta-spiral",
+    "treatment": {
+      "id": "copper",
+      "background": "#1e1211",
+      "accent": "#e3a377",
+      "secondary": "#9cb7a0",
+      "metalness": 0.9,
+      "roughness": 0.29
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "pasta-spiral",
+      "copper",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-pasta-spiral-graphite",
+    "layout": "pasta-spiral",
+    "treatment": {
+      "id": "graphite",
+      "background": "#111416",
+      "accent": "#b8c5cc",
+      "secondary": "#98a791",
+      "metalness": 0.95,
+      "roughness": 0.3
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "pasta-spiral",
+      "graphite",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-plated-garden-litchi",
+    "layout": "plated-garden",
+    "treatment": {
+      "id": "litchi",
+      "background": "#100b20",
+      "accent": "#bc8cff",
+      "secondary": "#ecb6df",
+      "metalness": 0.7,
+      "roughness": 0.24
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "plated-garden",
+      "litchi",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-plated-garden-citrus",
+    "layout": "plated-garden",
+    "treatment": {
+      "id": "citrus",
+      "background": "#161808",
+      "accent": "#c6ec55",
+      "secondary": "#f6b651",
+      "metalness": 0.4,
+      "roughness": 0.32
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "plated-garden",
+      "citrus",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-plated-garden-cherry",
+    "layout": "plated-garden",
+    "treatment": {
+      "id": "cherry",
+      "background": "#230b12",
+      "accent": "#fc718a",
+      "secondary": "#dcbbff",
+      "metalness": 0.6,
+      "roughness": 0.26
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "plated-garden",
+      "cherry",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-plated-garden-arctic",
+    "layout": "plated-garden",
+    "treatment": {
+      "id": "arctic",
+      "background": "#081723",
+      "accent": "#78dcff",
+      "secondary": "#bfdcff",
+      "metalness": 0.8,
+      "roughness": 0.18
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "plated-garden",
+      "arctic",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-plated-garden-cacao",
+    "layout": "plated-garden",
+    "treatment": {
+      "id": "cacao",
+      "background": "#25160f",
+      "accent": "#c79973",
+      "secondary": "#dc8f98",
+      "metalness": 0.15,
+      "roughness": 0.35
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "plated-garden",
+      "cacao",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-plated-garden-basil",
+    "layout": "plated-garden",
+    "treatment": {
+      "id": "basil",
+      "background": "#101c12",
+      "accent": "#91bb71",
+      "secondary": "#efd878",
+      "metalness": 0.1,
+      "roughness": 0.48
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "plated-garden",
+      "basil",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-plated-garden-pearl",
+    "layout": "plated-garden",
+    "treatment": {
+      "id": "pearl",
+      "background": "#e9e5df",
+      "accent": "#797298",
+      "secondary": "#ad607e",
+      "metalness": 0.35,
+      "roughness": 0.28
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "plated-garden",
+      "pearl",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-plated-garden-cobalt",
+    "layout": "plated-garden",
+    "treatment": {
+      "id": "cobalt",
+      "background": "#060e2c",
+      "accent": "#6f9bff",
+      "secondary": "#f58df6",
+      "metalness": 0.8,
+      "roughness": 0.22
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "plated-garden",
+      "cobalt",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-plated-garden-copper",
+    "layout": "plated-garden",
+    "treatment": {
+      "id": "copper",
+      "background": "#1e1211",
+      "accent": "#e3a377",
+      "secondary": "#9cb7a0",
+      "metalness": 0.9,
+      "roughness": 0.29
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "plated-garden",
+      "copper",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-plated-garden-graphite",
+    "layout": "plated-garden",
+    "treatment": {
+      "id": "graphite",
+      "background": "#111416",
+      "accent": "#b8c5cc",
+      "secondary": "#98a791",
+      "metalness": 0.95,
+      "roughness": 0.3
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "plated-garden",
+      "graphite",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-floating-cubes-litchi",
+    "layout": "floating-cubes",
+    "treatment": {
+      "id": "litchi",
+      "background": "#100b20",
+      "accent": "#bc8cff",
+      "secondary": "#ecb6df",
+      "metalness": 0.7,
+      "roughness": 0.24
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "floating-cubes",
+      "litchi",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-floating-cubes-citrus",
+    "layout": "floating-cubes",
+    "treatment": {
+      "id": "citrus",
+      "background": "#161808",
+      "accent": "#c6ec55",
+      "secondary": "#f6b651",
+      "metalness": 0.4,
+      "roughness": 0.32
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "floating-cubes",
+      "citrus",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-floating-cubes-cherry",
+    "layout": "floating-cubes",
+    "treatment": {
+      "id": "cherry",
+      "background": "#230b12",
+      "accent": "#fc718a",
+      "secondary": "#dcbbff",
+      "metalness": 0.6,
+      "roughness": 0.26
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "floating-cubes",
+      "cherry",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-floating-cubes-arctic",
+    "layout": "floating-cubes",
+    "treatment": {
+      "id": "arctic",
+      "background": "#081723",
+      "accent": "#78dcff",
+      "secondary": "#bfdcff",
+      "metalness": 0.8,
+      "roughness": 0.18
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "floating-cubes",
+      "arctic",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-floating-cubes-cacao",
+    "layout": "floating-cubes",
+    "treatment": {
+      "id": "cacao",
+      "background": "#25160f",
+      "accent": "#c79973",
+      "secondary": "#dc8f98",
+      "metalness": 0.15,
+      "roughness": 0.35
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "floating-cubes",
+      "cacao",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-floating-cubes-basil",
+    "layout": "floating-cubes",
+    "treatment": {
+      "id": "basil",
+      "background": "#101c12",
+      "accent": "#91bb71",
+      "secondary": "#efd878",
+      "metalness": 0.1,
+      "roughness": 0.48
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "floating-cubes",
+      "basil",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-floating-cubes-pearl",
+    "layout": "floating-cubes",
+    "treatment": {
+      "id": "pearl",
+      "background": "#e9e5df",
+      "accent": "#797298",
+      "secondary": "#ad607e",
+      "metalness": 0.35,
+      "roughness": 0.28
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "floating-cubes",
+      "pearl",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-floating-cubes-cobalt",
+    "layout": "floating-cubes",
+    "treatment": {
+      "id": "cobalt",
+      "background": "#060e2c",
+      "accent": "#6f9bff",
+      "secondary": "#f58df6",
+      "metalness": 0.8,
+      "roughness": 0.22
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "floating-cubes",
+      "cobalt",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-floating-cubes-copper",
+    "layout": "floating-cubes",
+    "treatment": {
+      "id": "copper",
+      "background": "#1e1211",
+      "accent": "#e3a377",
+      "secondary": "#9cb7a0",
+      "metalness": 0.9,
+      "roughness": 0.29
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "floating-cubes",
+      "copper",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-floating-cubes-graphite",
+    "layout": "floating-cubes",
+    "treatment": {
+      "id": "graphite",
+      "background": "#111416",
+      "accent": "#b8c5cc",
+      "secondary": "#98a791",
+      "metalness": 0.95,
+      "roughness": 0.3
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "floating-cubes",
+      "graphite",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-radial-rings-litchi",
+    "layout": "radial-rings",
+    "treatment": {
+      "id": "litchi",
+      "background": "#100b20",
+      "accent": "#bc8cff",
+      "secondary": "#ecb6df",
+      "metalness": 0.7,
+      "roughness": 0.24
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "radial-rings",
+      "litchi",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-radial-rings-citrus",
+    "layout": "radial-rings",
+    "treatment": {
+      "id": "citrus",
+      "background": "#161808",
+      "accent": "#c6ec55",
+      "secondary": "#f6b651",
+      "metalness": 0.4,
+      "roughness": 0.32
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "radial-rings",
+      "citrus",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-radial-rings-cherry",
+    "layout": "radial-rings",
+    "treatment": {
+      "id": "cherry",
+      "background": "#230b12",
+      "accent": "#fc718a",
+      "secondary": "#dcbbff",
+      "metalness": 0.6,
+      "roughness": 0.26
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "radial-rings",
+      "cherry",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-radial-rings-arctic",
+    "layout": "radial-rings",
+    "treatment": {
+      "id": "arctic",
+      "background": "#081723",
+      "accent": "#78dcff",
+      "secondary": "#bfdcff",
+      "metalness": 0.8,
+      "roughness": 0.18
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "radial-rings",
+      "arctic",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-radial-rings-cacao",
+    "layout": "radial-rings",
+    "treatment": {
+      "id": "cacao",
+      "background": "#25160f",
+      "accent": "#c79973",
+      "secondary": "#dc8f98",
+      "metalness": 0.15,
+      "roughness": 0.35
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "radial-rings",
+      "cacao",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-radial-rings-basil",
+    "layout": "radial-rings",
+    "treatment": {
+      "id": "basil",
+      "background": "#101c12",
+      "accent": "#91bb71",
+      "secondary": "#efd878",
+      "metalness": 0.1,
+      "roughness": 0.48
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "radial-rings",
+      "basil",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-radial-rings-pearl",
+    "layout": "radial-rings",
+    "treatment": {
+      "id": "pearl",
+      "background": "#e9e5df",
+      "accent": "#797298",
+      "secondary": "#ad607e",
+      "metalness": 0.35,
+      "roughness": 0.28
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "radial-rings",
+      "pearl",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-radial-rings-cobalt",
+    "layout": "radial-rings",
+    "treatment": {
+      "id": "cobalt",
+      "background": "#060e2c",
+      "accent": "#6f9bff",
+      "secondary": "#f58df6",
+      "metalness": 0.8,
+      "roughness": 0.22
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "radial-rings",
+      "cobalt",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-radial-rings-copper",
+    "layout": "radial-rings",
+    "treatment": {
+      "id": "copper",
+      "background": "#1e1211",
+      "accent": "#e3a377",
+      "secondary": "#9cb7a0",
+      "metalness": 0.9,
+      "roughness": 0.29
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "radial-rings",
+      "copper",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-radial-rings-graphite",
+    "layout": "radial-rings",
+    "treatment": {
+      "id": "graphite",
+      "background": "#111416",
+      "accent": "#b8c5cc",
+      "secondary": "#98a791",
+      "metalness": 0.95,
+      "roughness": 0.3
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "radial-rings",
+      "graphite",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-sculpture-stack-litchi",
+    "layout": "sculpture-stack",
+    "treatment": {
+      "id": "litchi",
+      "background": "#100b20",
+      "accent": "#bc8cff",
+      "secondary": "#ecb6df",
+      "metalness": 0.7,
+      "roughness": 0.24
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "sculpture-stack",
+      "litchi",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-sculpture-stack-citrus",
+    "layout": "sculpture-stack",
+    "treatment": {
+      "id": "citrus",
+      "background": "#161808",
+      "accent": "#c6ec55",
+      "secondary": "#f6b651",
+      "metalness": 0.4,
+      "roughness": 0.32
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "sculpture-stack",
+      "citrus",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-sculpture-stack-cherry",
+    "layout": "sculpture-stack",
+    "treatment": {
+      "id": "cherry",
+      "background": "#230b12",
+      "accent": "#fc718a",
+      "secondary": "#dcbbff",
+      "metalness": 0.6,
+      "roughness": 0.26
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "sculpture-stack",
+      "cherry",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-sculpture-stack-arctic",
+    "layout": "sculpture-stack",
+    "treatment": {
+      "id": "arctic",
+      "background": "#081723",
+      "accent": "#78dcff",
+      "secondary": "#bfdcff",
+      "metalness": 0.8,
+      "roughness": 0.18
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "sculpture-stack",
+      "arctic",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-sculpture-stack-cacao",
+    "layout": "sculpture-stack",
+    "treatment": {
+      "id": "cacao",
+      "background": "#25160f",
+      "accent": "#c79973",
+      "secondary": "#dc8f98",
+      "metalness": 0.15,
+      "roughness": 0.35
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "sculpture-stack",
+      "cacao",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-sculpture-stack-basil",
+    "layout": "sculpture-stack",
+    "treatment": {
+      "id": "basil",
+      "background": "#101c12",
+      "accent": "#91bb71",
+      "secondary": "#efd878",
+      "metalness": 0.1,
+      "roughness": 0.48
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "sculpture-stack",
+      "basil",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-sculpture-stack-pearl",
+    "layout": "sculpture-stack",
+    "treatment": {
+      "id": "pearl",
+      "background": "#e9e5df",
+      "accent": "#797298",
+      "secondary": "#ad607e",
+      "metalness": 0.35,
+      "roughness": 0.28
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "sculpture-stack",
+      "pearl",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-sculpture-stack-cobalt",
+    "layout": "sculpture-stack",
+    "treatment": {
+      "id": "cobalt",
+      "background": "#060e2c",
+      "accent": "#6f9bff",
+      "secondary": "#f58df6",
+      "metalness": 0.8,
+      "roughness": 0.22
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "sculpture-stack",
+      "cobalt",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-sculpture-stack-copper",
+    "layout": "sculpture-stack",
+    "treatment": {
+      "id": "copper",
+      "background": "#1e1211",
+      "accent": "#e3a377",
+      "secondary": "#9cb7a0",
+      "metalness": 0.9,
+      "roughness": 0.29
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "sculpture-stack",
+      "copper",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "scene-sculpture-stack-graphite",
+    "layout": "sculpture-stack",
+    "treatment": {
+      "id": "graphite",
+      "background": "#111416",
+      "accent": "#b8c5cc",
+      "secondary": "#98a791",
+      "metalness": 0.95,
+      "roughness": 0.3
+    },
+    "budget": {
+      "dpr": 1.5,
+      "desktopDrawCalls": 100,
+      "mobileDrawCalls": 60
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Original procedural starter, not a photorealistic model or fluid simulation",
+    "fallback": "CSS product sculpture and semantic HTML; no WebGL required for content",
+    "tags": [
+      "sculpture-stack",
+      "graphite",
+      "threejs",
+      "3d",
+      "sculpture"
+    ]
+  }
+]

@@ -1,0 +1,3122 @@
+[
+  {
+    "id": "background-starfield-litchi",
+    "layout": "starfield",
+    "treatment": {
+      "id": "litchi",
+      "background": "#100b20",
+      "accent": "#bc8cff",
+      "secondary": "#ecb6df",
+      "metalness": 0.7,
+      "roughness": 0.24
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "starfield",
+      "litchi",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-starfield-citrus",
+    "layout": "starfield",
+    "treatment": {
+      "id": "citrus",
+      "background": "#161808",
+      "accent": "#c6ec55",
+      "secondary": "#f6b651",
+      "metalness": 0.4,
+      "roughness": 0.32
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "starfield",
+      "citrus",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-starfield-cherry",
+    "layout": "starfield",
+    "treatment": {
+      "id": "cherry",
+      "background": "#230b12",
+      "accent": "#fc718a",
+      "secondary": "#dcbbff",
+      "metalness": 0.6,
+      "roughness": 0.26
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "starfield",
+      "cherry",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-starfield-arctic",
+    "layout": "starfield",
+    "treatment": {
+      "id": "arctic",
+      "background": "#081723",
+      "accent": "#78dcff",
+      "secondary": "#bfdcff",
+      "metalness": 0.8,
+      "roughness": 0.18
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "starfield",
+      "arctic",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-starfield-cacao",
+    "layout": "starfield",
+    "treatment": {
+      "id": "cacao",
+      "background": "#25160f",
+      "accent": "#c79973",
+      "secondary": "#dc8f98",
+      "metalness": 0.15,
+      "roughness": 0.35
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "starfield",
+      "cacao",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-starfield-basil",
+    "layout": "starfield",
+    "treatment": {
+      "id": "basil",
+      "background": "#101c12",
+      "accent": "#91bb71",
+      "secondary": "#efd878",
+      "metalness": 0.1,
+      "roughness": 0.48
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "starfield",
+      "basil",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-starfield-pearl",
+    "layout": "starfield",
+    "treatment": {
+      "id": "pearl",
+      "background": "#e9e5df",
+      "accent": "#797298",
+      "secondary": "#ad607e",
+      "metalness": 0.35,
+      "roughness": 0.28
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "starfield",
+      "pearl",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-starfield-cobalt",
+    "layout": "starfield",
+    "treatment": {
+      "id": "cobalt",
+      "background": "#060e2c",
+      "accent": "#6f9bff",
+      "secondary": "#f58df6",
+      "metalness": 0.8,
+      "roughness": 0.22
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "starfield",
+      "cobalt",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-starfield-copper",
+    "layout": "starfield",
+    "treatment": {
+      "id": "copper",
+      "background": "#1e1211",
+      "accent": "#e3a377",
+      "secondary": "#9cb7a0",
+      "metalness": 0.9,
+      "roughness": 0.29
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "starfield",
+      "copper",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-starfield-graphite",
+    "layout": "starfield",
+    "treatment": {
+      "id": "graphite",
+      "background": "#111416",
+      "accent": "#b8c5cc",
+      "secondary": "#98a791",
+      "metalness": 0.95,
+      "roughness": 0.3
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "starfield",
+      "graphite",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-particle-wave-litchi",
+    "layout": "particle-wave",
+    "treatment": {
+      "id": "litchi",
+      "background": "#100b20",
+      "accent": "#bc8cff",
+      "secondary": "#ecb6df",
+      "metalness": 0.7,
+      "roughness": 0.24
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "particle-wave",
+      "litchi",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-particle-wave-citrus",
+    "layout": "particle-wave",
+    "treatment": {
+      "id": "citrus",
+      "background": "#161808",
+      "accent": "#c6ec55",
+      "secondary": "#f6b651",
+      "metalness": 0.4,
+      "roughness": 0.32
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "particle-wave",
+      "citrus",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-particle-wave-cherry",
+    "layout": "particle-wave",
+    "treatment": {
+      "id": "cherry",
+      "background": "#230b12",
+      "accent": "#fc718a",
+      "secondary": "#dcbbff",
+      "metalness": 0.6,
+      "roughness": 0.26
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "particle-wave",
+      "cherry",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-particle-wave-arctic",
+    "layout": "particle-wave",
+    "treatment": {
+      "id": "arctic",
+      "background": "#081723",
+      "accent": "#78dcff",
+      "secondary": "#bfdcff",
+      "metalness": 0.8,
+      "roughness": 0.18
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "particle-wave",
+      "arctic",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-particle-wave-cacao",
+    "layout": "particle-wave",
+    "treatment": {
+      "id": "cacao",
+      "background": "#25160f",
+      "accent": "#c79973",
+      "secondary": "#dc8f98",
+      "metalness": 0.15,
+      "roughness": 0.35
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "particle-wave",
+      "cacao",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-particle-wave-basil",
+    "layout": "particle-wave",
+    "treatment": {
+      "id": "basil",
+      "background": "#101c12",
+      "accent": "#91bb71",
+      "secondary": "#efd878",
+      "metalness": 0.1,
+      "roughness": 0.48
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "particle-wave",
+      "basil",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-particle-wave-pearl",
+    "layout": "particle-wave",
+    "treatment": {
+      "id": "pearl",
+      "background": "#e9e5df",
+      "accent": "#797298",
+      "secondary": "#ad607e",
+      "metalness": 0.35,
+      "roughness": 0.28
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "particle-wave",
+      "pearl",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-particle-wave-cobalt",
+    "layout": "particle-wave",
+    "treatment": {
+      "id": "cobalt",
+      "background": "#060e2c",
+      "accent": "#6f9bff",
+      "secondary": "#f58df6",
+      "metalness": 0.8,
+      "roughness": 0.22
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "particle-wave",
+      "cobalt",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-particle-wave-copper",
+    "layout": "particle-wave",
+    "treatment": {
+      "id": "copper",
+      "background": "#1e1211",
+      "accent": "#e3a377",
+      "secondary": "#9cb7a0",
+      "metalness": 0.9,
+      "roughness": 0.29
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "particle-wave",
+      "copper",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-particle-wave-graphite",
+    "layout": "particle-wave",
+    "treatment": {
+      "id": "graphite",
+      "background": "#111416",
+      "accent": "#b8c5cc",
+      "secondary": "#98a791",
+      "metalness": 0.95,
+      "roughness": 0.3
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "particle-wave",
+      "graphite",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-terrain-grid-litchi",
+    "layout": "terrain-grid",
+    "treatment": {
+      "id": "litchi",
+      "background": "#100b20",
+      "accent": "#bc8cff",
+      "secondary": "#ecb6df",
+      "metalness": 0.7,
+      "roughness": 0.24
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "terrain-grid",
+      "litchi",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-terrain-grid-citrus",
+    "layout": "terrain-grid",
+    "treatment": {
+      "id": "citrus",
+      "background": "#161808",
+      "accent": "#c6ec55",
+      "secondary": "#f6b651",
+      "metalness": 0.4,
+      "roughness": 0.32
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "terrain-grid",
+      "citrus",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-terrain-grid-cherry",
+    "layout": "terrain-grid",
+    "treatment": {
+      "id": "cherry",
+      "background": "#230b12",
+      "accent": "#fc718a",
+      "secondary": "#dcbbff",
+      "metalness": 0.6,
+      "roughness": 0.26
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "terrain-grid",
+      "cherry",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-terrain-grid-arctic",
+    "layout": "terrain-grid",
+    "treatment": {
+      "id": "arctic",
+      "background": "#081723",
+      "accent": "#78dcff",
+      "secondary": "#bfdcff",
+      "metalness": 0.8,
+      "roughness": 0.18
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "terrain-grid",
+      "arctic",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-terrain-grid-cacao",
+    "layout": "terrain-grid",
+    "treatment": {
+      "id": "cacao",
+      "background": "#25160f",
+      "accent": "#c79973",
+      "secondary": "#dc8f98",
+      "metalness": 0.15,
+      "roughness": 0.35
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "terrain-grid",
+      "cacao",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-terrain-grid-basil",
+    "layout": "terrain-grid",
+    "treatment": {
+      "id": "basil",
+      "background": "#101c12",
+      "accent": "#91bb71",
+      "secondary": "#efd878",
+      "metalness": 0.1,
+      "roughness": 0.48
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "terrain-grid",
+      "basil",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-terrain-grid-pearl",
+    "layout": "terrain-grid",
+    "treatment": {
+      "id": "pearl",
+      "background": "#e9e5df",
+      "accent": "#797298",
+      "secondary": "#ad607e",
+      "metalness": 0.35,
+      "roughness": 0.28
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "terrain-grid",
+      "pearl",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-terrain-grid-cobalt",
+    "layout": "terrain-grid",
+    "treatment": {
+      "id": "cobalt",
+      "background": "#060e2c",
+      "accent": "#6f9bff",
+      "secondary": "#f58df6",
+      "metalness": 0.8,
+      "roughness": 0.22
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "terrain-grid",
+      "cobalt",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-terrain-grid-copper",
+    "layout": "terrain-grid",
+    "treatment": {
+      "id": "copper",
+      "background": "#1e1211",
+      "accent": "#e3a377",
+      "secondary": "#9cb7a0",
+      "metalness": 0.9,
+      "roughness": 0.29
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "terrain-grid",
+      "copper",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-terrain-grid-graphite",
+    "layout": "terrain-grid",
+    "treatment": {
+      "id": "graphite",
+      "background": "#111416",
+      "accent": "#b8c5cc",
+      "secondary": "#98a791",
+      "metalness": 0.95,
+      "roughness": 0.3
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "terrain-grid",
+      "graphite",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-orbital-dust-litchi",
+    "layout": "orbital-dust",
+    "treatment": {
+      "id": "litchi",
+      "background": "#100b20",
+      "accent": "#bc8cff",
+      "secondary": "#ecb6df",
+      "metalness": 0.7,
+      "roughness": 0.24
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "orbital-dust",
+      "litchi",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-orbital-dust-citrus",
+    "layout": "orbital-dust",
+    "treatment": {
+      "id": "citrus",
+      "background": "#161808",
+      "accent": "#c6ec55",
+      "secondary": "#f6b651",
+      "metalness": 0.4,
+      "roughness": 0.32
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "orbital-dust",
+      "citrus",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-orbital-dust-cherry",
+    "layout": "orbital-dust",
+    "treatment": {
+      "id": "cherry",
+      "background": "#230b12",
+      "accent": "#fc718a",
+      "secondary": "#dcbbff",
+      "metalness": 0.6,
+      "roughness": 0.26
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "orbital-dust",
+      "cherry",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-orbital-dust-arctic",
+    "layout": "orbital-dust",
+    "treatment": {
+      "id": "arctic",
+      "background": "#081723",
+      "accent": "#78dcff",
+      "secondary": "#bfdcff",
+      "metalness": 0.8,
+      "roughness": 0.18
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "orbital-dust",
+      "arctic",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-orbital-dust-cacao",
+    "layout": "orbital-dust",
+    "treatment": {
+      "id": "cacao",
+      "background": "#25160f",
+      "accent": "#c79973",
+      "secondary": "#dc8f98",
+      "metalness": 0.15,
+      "roughness": 0.35
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "orbital-dust",
+      "cacao",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-orbital-dust-basil",
+    "layout": "orbital-dust",
+    "treatment": {
+      "id": "basil",
+      "background": "#101c12",
+      "accent": "#91bb71",
+      "secondary": "#efd878",
+      "metalness": 0.1,
+      "roughness": 0.48
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "orbital-dust",
+      "basil",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-orbital-dust-pearl",
+    "layout": "orbital-dust",
+    "treatment": {
+      "id": "pearl",
+      "background": "#e9e5df",
+      "accent": "#797298",
+      "secondary": "#ad607e",
+      "metalness": 0.35,
+      "roughness": 0.28
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "orbital-dust",
+      "pearl",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-orbital-dust-cobalt",
+    "layout": "orbital-dust",
+    "treatment": {
+      "id": "cobalt",
+      "background": "#060e2c",
+      "accent": "#6f9bff",
+      "secondary": "#f58df6",
+      "metalness": 0.8,
+      "roughness": 0.22
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "orbital-dust",
+      "cobalt",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-orbital-dust-copper",
+    "layout": "orbital-dust",
+    "treatment": {
+      "id": "copper",
+      "background": "#1e1211",
+      "accent": "#e3a377",
+      "secondary": "#9cb7a0",
+      "metalness": 0.9,
+      "roughness": 0.29
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "orbital-dust",
+      "copper",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-orbital-dust-graphite",
+    "layout": "orbital-dust",
+    "treatment": {
+      "id": "graphite",
+      "background": "#111416",
+      "accent": "#b8c5cc",
+      "secondary": "#98a791",
+      "metalness": 0.95,
+      "roughness": 0.3
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "orbital-dust",
+      "graphite",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-glass-towers-litchi",
+    "layout": "glass-towers",
+    "treatment": {
+      "id": "litchi",
+      "background": "#100b20",
+      "accent": "#bc8cff",
+      "secondary": "#ecb6df",
+      "metalness": 0.7,
+      "roughness": 0.24
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "glass-towers",
+      "litchi",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-glass-towers-citrus",
+    "layout": "glass-towers",
+    "treatment": {
+      "id": "citrus",
+      "background": "#161808",
+      "accent": "#c6ec55",
+      "secondary": "#f6b651",
+      "metalness": 0.4,
+      "roughness": 0.32
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "glass-towers",
+      "citrus",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-glass-towers-cherry",
+    "layout": "glass-towers",
+    "treatment": {
+      "id": "cherry",
+      "background": "#230b12",
+      "accent": "#fc718a",
+      "secondary": "#dcbbff",
+      "metalness": 0.6,
+      "roughness": 0.26
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "glass-towers",
+      "cherry",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-glass-towers-arctic",
+    "layout": "glass-towers",
+    "treatment": {
+      "id": "arctic",
+      "background": "#081723",
+      "accent": "#78dcff",
+      "secondary": "#bfdcff",
+      "metalness": 0.8,
+      "roughness": 0.18
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "glass-towers",
+      "arctic",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-glass-towers-cacao",
+    "layout": "glass-towers",
+    "treatment": {
+      "id": "cacao",
+      "background": "#25160f",
+      "accent": "#c79973",
+      "secondary": "#dc8f98",
+      "metalness": 0.15,
+      "roughness": 0.35
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "glass-towers",
+      "cacao",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-glass-towers-basil",
+    "layout": "glass-towers",
+    "treatment": {
+      "id": "basil",
+      "background": "#101c12",
+      "accent": "#91bb71",
+      "secondary": "#efd878",
+      "metalness": 0.1,
+      "roughness": 0.48
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "glass-towers",
+      "basil",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-glass-towers-pearl",
+    "layout": "glass-towers",
+    "treatment": {
+      "id": "pearl",
+      "background": "#e9e5df",
+      "accent": "#797298",
+      "secondary": "#ad607e",
+      "metalness": 0.35,
+      "roughness": 0.28
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "glass-towers",
+      "pearl",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-glass-towers-cobalt",
+    "layout": "glass-towers",
+    "treatment": {
+      "id": "cobalt",
+      "background": "#060e2c",
+      "accent": "#6f9bff",
+      "secondary": "#f58df6",
+      "metalness": 0.8,
+      "roughness": 0.22
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "glass-towers",
+      "cobalt",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-glass-towers-copper",
+    "layout": "glass-towers",
+    "treatment": {
+      "id": "copper",
+      "background": "#1e1211",
+      "accent": "#e3a377",
+      "secondary": "#9cb7a0",
+      "metalness": 0.9,
+      "roughness": 0.29
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "glass-towers",
+      "copper",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-glass-towers-graphite",
+    "layout": "glass-towers",
+    "treatment": {
+      "id": "graphite",
+      "background": "#111416",
+      "accent": "#b8c5cc",
+      "secondary": "#98a791",
+      "metalness": 0.95,
+      "roughness": 0.3
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "glass-towers",
+      "graphite",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-crystal-field-litchi",
+    "layout": "crystal-field",
+    "treatment": {
+      "id": "litchi",
+      "background": "#100b20",
+      "accent": "#bc8cff",
+      "secondary": "#ecb6df",
+      "metalness": 0.7,
+      "roughness": 0.24
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "crystal-field",
+      "litchi",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-crystal-field-citrus",
+    "layout": "crystal-field",
+    "treatment": {
+      "id": "citrus",
+      "background": "#161808",
+      "accent": "#c6ec55",
+      "secondary": "#f6b651",
+      "metalness": 0.4,
+      "roughness": 0.32
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "crystal-field",
+      "citrus",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-crystal-field-cherry",
+    "layout": "crystal-field",
+    "treatment": {
+      "id": "cherry",
+      "background": "#230b12",
+      "accent": "#fc718a",
+      "secondary": "#dcbbff",
+      "metalness": 0.6,
+      "roughness": 0.26
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "crystal-field",
+      "cherry",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-crystal-field-arctic",
+    "layout": "crystal-field",
+    "treatment": {
+      "id": "arctic",
+      "background": "#081723",
+      "accent": "#78dcff",
+      "secondary": "#bfdcff",
+      "metalness": 0.8,
+      "roughness": 0.18
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "crystal-field",
+      "arctic",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-crystal-field-cacao",
+    "layout": "crystal-field",
+    "treatment": {
+      "id": "cacao",
+      "background": "#25160f",
+      "accent": "#c79973",
+      "secondary": "#dc8f98",
+      "metalness": 0.15,
+      "roughness": 0.35
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "crystal-field",
+      "cacao",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-crystal-field-basil",
+    "layout": "crystal-field",
+    "treatment": {
+      "id": "basil",
+      "background": "#101c12",
+      "accent": "#91bb71",
+      "secondary": "#efd878",
+      "metalness": 0.1,
+      "roughness": 0.48
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "crystal-field",
+      "basil",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-crystal-field-pearl",
+    "layout": "crystal-field",
+    "treatment": {
+      "id": "pearl",
+      "background": "#e9e5df",
+      "accent": "#797298",
+      "secondary": "#ad607e",
+      "metalness": 0.35,
+      "roughness": 0.28
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "crystal-field",
+      "pearl",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-crystal-field-cobalt",
+    "layout": "crystal-field",
+    "treatment": {
+      "id": "cobalt",
+      "background": "#060e2c",
+      "accent": "#6f9bff",
+      "secondary": "#f58df6",
+      "metalness": 0.8,
+      "roughness": 0.22
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "crystal-field",
+      "cobalt",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-crystal-field-copper",
+    "layout": "crystal-field",
+    "treatment": {
+      "id": "copper",
+      "background": "#1e1211",
+      "accent": "#e3a377",
+      "secondary": "#9cb7a0",
+      "metalness": 0.9,
+      "roughness": 0.29
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "crystal-field",
+      "copper",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-crystal-field-graphite",
+    "layout": "crystal-field",
+    "treatment": {
+      "id": "graphite",
+      "background": "#111416",
+      "accent": "#b8c5cc",
+      "secondary": "#98a791",
+      "metalness": 0.95,
+      "roughness": 0.3
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "crystal-field",
+      "graphite",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-ribbon-tunnel-litchi",
+    "layout": "ribbon-tunnel",
+    "treatment": {
+      "id": "litchi",
+      "background": "#100b20",
+      "accent": "#bc8cff",
+      "secondary": "#ecb6df",
+      "metalness": 0.7,
+      "roughness": 0.24
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "ribbon-tunnel",
+      "litchi",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-ribbon-tunnel-citrus",
+    "layout": "ribbon-tunnel",
+    "treatment": {
+      "id": "citrus",
+      "background": "#161808",
+      "accent": "#c6ec55",
+      "secondary": "#f6b651",
+      "metalness": 0.4,
+      "roughness": 0.32
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "ribbon-tunnel",
+      "citrus",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-ribbon-tunnel-cherry",
+    "layout": "ribbon-tunnel",
+    "treatment": {
+      "id": "cherry",
+      "background": "#230b12",
+      "accent": "#fc718a",
+      "secondary": "#dcbbff",
+      "metalness": 0.6,
+      "roughness": 0.26
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "ribbon-tunnel",
+      "cherry",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-ribbon-tunnel-arctic",
+    "layout": "ribbon-tunnel",
+    "treatment": {
+      "id": "arctic",
+      "background": "#081723",
+      "accent": "#78dcff",
+      "secondary": "#bfdcff",
+      "metalness": 0.8,
+      "roughness": 0.18
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "ribbon-tunnel",
+      "arctic",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-ribbon-tunnel-cacao",
+    "layout": "ribbon-tunnel",
+    "treatment": {
+      "id": "cacao",
+      "background": "#25160f",
+      "accent": "#c79973",
+      "secondary": "#dc8f98",
+      "metalness": 0.15,
+      "roughness": 0.35
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "ribbon-tunnel",
+      "cacao",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-ribbon-tunnel-basil",
+    "layout": "ribbon-tunnel",
+    "treatment": {
+      "id": "basil",
+      "background": "#101c12",
+      "accent": "#91bb71",
+      "secondary": "#efd878",
+      "metalness": 0.1,
+      "roughness": 0.48
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "ribbon-tunnel",
+      "basil",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-ribbon-tunnel-pearl",
+    "layout": "ribbon-tunnel",
+    "treatment": {
+      "id": "pearl",
+      "background": "#e9e5df",
+      "accent": "#797298",
+      "secondary": "#ad607e",
+      "metalness": 0.35,
+      "roughness": 0.28
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "ribbon-tunnel",
+      "pearl",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-ribbon-tunnel-cobalt",
+    "layout": "ribbon-tunnel",
+    "treatment": {
+      "id": "cobalt",
+      "background": "#060e2c",
+      "accent": "#6f9bff",
+      "secondary": "#f58df6",
+      "metalness": 0.8,
+      "roughness": 0.22
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "ribbon-tunnel",
+      "cobalt",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-ribbon-tunnel-copper",
+    "layout": "ribbon-tunnel",
+    "treatment": {
+      "id": "copper",
+      "background": "#1e1211",
+      "accent": "#e3a377",
+      "secondary": "#9cb7a0",
+      "metalness": 0.9,
+      "roughness": 0.29
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "ribbon-tunnel",
+      "copper",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-ribbon-tunnel-graphite",
+    "layout": "ribbon-tunnel",
+    "treatment": {
+      "id": "graphite",
+      "background": "#111416",
+      "accent": "#b8c5cc",
+      "secondary": "#98a791",
+      "metalness": 0.95,
+      "roughness": 0.3
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "ribbon-tunnel",
+      "graphite",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-neon-lattice-litchi",
+    "layout": "neon-lattice",
+    "treatment": {
+      "id": "litchi",
+      "background": "#100b20",
+      "accent": "#bc8cff",
+      "secondary": "#ecb6df",
+      "metalness": 0.7,
+      "roughness": 0.24
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "neon-lattice",
+      "litchi",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-neon-lattice-citrus",
+    "layout": "neon-lattice",
+    "treatment": {
+      "id": "citrus",
+      "background": "#161808",
+      "accent": "#c6ec55",
+      "secondary": "#f6b651",
+      "metalness": 0.4,
+      "roughness": 0.32
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "neon-lattice",
+      "citrus",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-neon-lattice-cherry",
+    "layout": "neon-lattice",
+    "treatment": {
+      "id": "cherry",
+      "background": "#230b12",
+      "accent": "#fc718a",
+      "secondary": "#dcbbff",
+      "metalness": 0.6,
+      "roughness": 0.26
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "neon-lattice",
+      "cherry",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-neon-lattice-arctic",
+    "layout": "neon-lattice",
+    "treatment": {
+      "id": "arctic",
+      "background": "#081723",
+      "accent": "#78dcff",
+      "secondary": "#bfdcff",
+      "metalness": 0.8,
+      "roughness": 0.18
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "neon-lattice",
+      "arctic",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-neon-lattice-cacao",
+    "layout": "neon-lattice",
+    "treatment": {
+      "id": "cacao",
+      "background": "#25160f",
+      "accent": "#c79973",
+      "secondary": "#dc8f98",
+      "metalness": 0.15,
+      "roughness": 0.35
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "neon-lattice",
+      "cacao",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-neon-lattice-basil",
+    "layout": "neon-lattice",
+    "treatment": {
+      "id": "basil",
+      "background": "#101c12",
+      "accent": "#91bb71",
+      "secondary": "#efd878",
+      "metalness": 0.1,
+      "roughness": 0.48
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "neon-lattice",
+      "basil",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-neon-lattice-pearl",
+    "layout": "neon-lattice",
+    "treatment": {
+      "id": "pearl",
+      "background": "#e9e5df",
+      "accent": "#797298",
+      "secondary": "#ad607e",
+      "metalness": 0.35,
+      "roughness": 0.28
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "neon-lattice",
+      "pearl",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-neon-lattice-cobalt",
+    "layout": "neon-lattice",
+    "treatment": {
+      "id": "cobalt",
+      "background": "#060e2c",
+      "accent": "#6f9bff",
+      "secondary": "#f58df6",
+      "metalness": 0.8,
+      "roughness": 0.22
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "neon-lattice",
+      "cobalt",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-neon-lattice-copper",
+    "layout": "neon-lattice",
+    "treatment": {
+      "id": "copper",
+      "background": "#1e1211",
+      "accent": "#e3a377",
+      "secondary": "#9cb7a0",
+      "metalness": 0.9,
+      "roughness": 0.29
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "neon-lattice",
+      "copper",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-neon-lattice-graphite",
+    "layout": "neon-lattice",
+    "treatment": {
+      "id": "graphite",
+      "background": "#111416",
+      "accent": "#b8c5cc",
+      "secondary": "#98a791",
+      "metalness": 0.95,
+      "roughness": 0.3
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "neon-lattice",
+      "graphite",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-low-poly-dunes-litchi",
+    "layout": "low-poly-dunes",
+    "treatment": {
+      "id": "litchi",
+      "background": "#100b20",
+      "accent": "#bc8cff",
+      "secondary": "#ecb6df",
+      "metalness": 0.7,
+      "roughness": 0.24
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "low-poly-dunes",
+      "litchi",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-low-poly-dunes-citrus",
+    "layout": "low-poly-dunes",
+    "treatment": {
+      "id": "citrus",
+      "background": "#161808",
+      "accent": "#c6ec55",
+      "secondary": "#f6b651",
+      "metalness": 0.4,
+      "roughness": 0.32
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "low-poly-dunes",
+      "citrus",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-low-poly-dunes-cherry",
+    "layout": "low-poly-dunes",
+    "treatment": {
+      "id": "cherry",
+      "background": "#230b12",
+      "accent": "#fc718a",
+      "secondary": "#dcbbff",
+      "metalness": 0.6,
+      "roughness": 0.26
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "low-poly-dunes",
+      "cherry",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-low-poly-dunes-arctic",
+    "layout": "low-poly-dunes",
+    "treatment": {
+      "id": "arctic",
+      "background": "#081723",
+      "accent": "#78dcff",
+      "secondary": "#bfdcff",
+      "metalness": 0.8,
+      "roughness": 0.18
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "low-poly-dunes",
+      "arctic",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-low-poly-dunes-cacao",
+    "layout": "low-poly-dunes",
+    "treatment": {
+      "id": "cacao",
+      "background": "#25160f",
+      "accent": "#c79973",
+      "secondary": "#dc8f98",
+      "metalness": 0.15,
+      "roughness": 0.35
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "low-poly-dunes",
+      "cacao",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-low-poly-dunes-basil",
+    "layout": "low-poly-dunes",
+    "treatment": {
+      "id": "basil",
+      "background": "#101c12",
+      "accent": "#91bb71",
+      "secondary": "#efd878",
+      "metalness": 0.1,
+      "roughness": 0.48
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "low-poly-dunes",
+      "basil",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-low-poly-dunes-pearl",
+    "layout": "low-poly-dunes",
+    "treatment": {
+      "id": "pearl",
+      "background": "#e9e5df",
+      "accent": "#797298",
+      "secondary": "#ad607e",
+      "metalness": 0.35,
+      "roughness": 0.28
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "low-poly-dunes",
+      "pearl",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-low-poly-dunes-cobalt",
+    "layout": "low-poly-dunes",
+    "treatment": {
+      "id": "cobalt",
+      "background": "#060e2c",
+      "accent": "#6f9bff",
+      "secondary": "#f58df6",
+      "metalness": 0.8,
+      "roughness": 0.22
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "low-poly-dunes",
+      "cobalt",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-low-poly-dunes-copper",
+    "layout": "low-poly-dunes",
+    "treatment": {
+      "id": "copper",
+      "background": "#1e1211",
+      "accent": "#e3a377",
+      "secondary": "#9cb7a0",
+      "metalness": 0.9,
+      "roughness": 0.29
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "low-poly-dunes",
+      "copper",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-low-poly-dunes-graphite",
+    "layout": "low-poly-dunes",
+    "treatment": {
+      "id": "graphite",
+      "background": "#111416",
+      "accent": "#b8c5cc",
+      "secondary": "#98a791",
+      "metalness": 0.95,
+      "roughness": 0.3
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "low-poly-dunes",
+      "graphite",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-floating-islands-litchi",
+    "layout": "floating-islands",
+    "treatment": {
+      "id": "litchi",
+      "background": "#100b20",
+      "accent": "#bc8cff",
+      "secondary": "#ecb6df",
+      "metalness": 0.7,
+      "roughness": 0.24
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "floating-islands",
+      "litchi",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-floating-islands-citrus",
+    "layout": "floating-islands",
+    "treatment": {
+      "id": "citrus",
+      "background": "#161808",
+      "accent": "#c6ec55",
+      "secondary": "#f6b651",
+      "metalness": 0.4,
+      "roughness": 0.32
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "floating-islands",
+      "citrus",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-floating-islands-cherry",
+    "layout": "floating-islands",
+    "treatment": {
+      "id": "cherry",
+      "background": "#230b12",
+      "accent": "#fc718a",
+      "secondary": "#dcbbff",
+      "metalness": 0.6,
+      "roughness": 0.26
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "floating-islands",
+      "cherry",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-floating-islands-arctic",
+    "layout": "floating-islands",
+    "treatment": {
+      "id": "arctic",
+      "background": "#081723",
+      "accent": "#78dcff",
+      "secondary": "#bfdcff",
+      "metalness": 0.8,
+      "roughness": 0.18
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "floating-islands",
+      "arctic",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-floating-islands-cacao",
+    "layout": "floating-islands",
+    "treatment": {
+      "id": "cacao",
+      "background": "#25160f",
+      "accent": "#c79973",
+      "secondary": "#dc8f98",
+      "metalness": 0.15,
+      "roughness": 0.35
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "floating-islands",
+      "cacao",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-floating-islands-basil",
+    "layout": "floating-islands",
+    "treatment": {
+      "id": "basil",
+      "background": "#101c12",
+      "accent": "#91bb71",
+      "secondary": "#efd878",
+      "metalness": 0.1,
+      "roughness": 0.48
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "floating-islands",
+      "basil",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-floating-islands-pearl",
+    "layout": "floating-islands",
+    "treatment": {
+      "id": "pearl",
+      "background": "#e9e5df",
+      "accent": "#797298",
+      "secondary": "#ad607e",
+      "metalness": 0.35,
+      "roughness": 0.28
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "floating-islands",
+      "pearl",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-floating-islands-cobalt",
+    "layout": "floating-islands",
+    "treatment": {
+      "id": "cobalt",
+      "background": "#060e2c",
+      "accent": "#6f9bff",
+      "secondary": "#f58df6",
+      "metalness": 0.8,
+      "roughness": 0.22
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "floating-islands",
+      "cobalt",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-floating-islands-copper",
+    "layout": "floating-islands",
+    "treatment": {
+      "id": "copper",
+      "background": "#1e1211",
+      "accent": "#e3a377",
+      "secondary": "#9cb7a0",
+      "metalness": 0.9,
+      "roughness": 0.29
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "floating-islands",
+      "copper",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-floating-islands-graphite",
+    "layout": "floating-islands",
+    "treatment": {
+      "id": "graphite",
+      "background": "#111416",
+      "accent": "#b8c5cc",
+      "secondary": "#98a791",
+      "metalness": 0.95,
+      "roughness": 0.3
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "floating-islands",
+      "graphite",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-helix-stream-litchi",
+    "layout": "helix-stream",
+    "treatment": {
+      "id": "litchi",
+      "background": "#100b20",
+      "accent": "#bc8cff",
+      "secondary": "#ecb6df",
+      "metalness": 0.7,
+      "roughness": 0.24
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "helix-stream",
+      "litchi",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-helix-stream-citrus",
+    "layout": "helix-stream",
+    "treatment": {
+      "id": "citrus",
+      "background": "#161808",
+      "accent": "#c6ec55",
+      "secondary": "#f6b651",
+      "metalness": 0.4,
+      "roughness": 0.32
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "helix-stream",
+      "citrus",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-helix-stream-cherry",
+    "layout": "helix-stream",
+    "treatment": {
+      "id": "cherry",
+      "background": "#230b12",
+      "accent": "#fc718a",
+      "secondary": "#dcbbff",
+      "metalness": 0.6,
+      "roughness": 0.26
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "helix-stream",
+      "cherry",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-helix-stream-arctic",
+    "layout": "helix-stream",
+    "treatment": {
+      "id": "arctic",
+      "background": "#081723",
+      "accent": "#78dcff",
+      "secondary": "#bfdcff",
+      "metalness": 0.8,
+      "roughness": 0.18
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "helix-stream",
+      "arctic",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-helix-stream-cacao",
+    "layout": "helix-stream",
+    "treatment": {
+      "id": "cacao",
+      "background": "#25160f",
+      "accent": "#c79973",
+      "secondary": "#dc8f98",
+      "metalness": 0.15,
+      "roughness": 0.35
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "helix-stream",
+      "cacao",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-helix-stream-basil",
+    "layout": "helix-stream",
+    "treatment": {
+      "id": "basil",
+      "background": "#101c12",
+      "accent": "#91bb71",
+      "secondary": "#efd878",
+      "metalness": 0.1,
+      "roughness": 0.48
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "helix-stream",
+      "basil",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-helix-stream-pearl",
+    "layout": "helix-stream",
+    "treatment": {
+      "id": "pearl",
+      "background": "#e9e5df",
+      "accent": "#797298",
+      "secondary": "#ad607e",
+      "metalness": 0.35,
+      "roughness": 0.28
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "helix-stream",
+      "pearl",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-helix-stream-cobalt",
+    "layout": "helix-stream",
+    "treatment": {
+      "id": "cobalt",
+      "background": "#060e2c",
+      "accent": "#6f9bff",
+      "secondary": "#f58df6",
+      "metalness": 0.8,
+      "roughness": 0.22
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "helix-stream",
+      "cobalt",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-helix-stream-copper",
+    "layout": "helix-stream",
+    "treatment": {
+      "id": "copper",
+      "background": "#1e1211",
+      "accent": "#e3a377",
+      "secondary": "#9cb7a0",
+      "metalness": 0.9,
+      "roughness": 0.29
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "helix-stream",
+      "copper",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-helix-stream-graphite",
+    "layout": "helix-stream",
+    "treatment": {
+      "id": "graphite",
+      "background": "#111416",
+      "accent": "#b8c5cc",
+      "secondary": "#98a791",
+      "metalness": 0.95,
+      "roughness": 0.3
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "helix-stream",
+      "graphite",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-sphere-garden-litchi",
+    "layout": "sphere-garden",
+    "treatment": {
+      "id": "litchi",
+      "background": "#100b20",
+      "accent": "#bc8cff",
+      "secondary": "#ecb6df",
+      "metalness": 0.7,
+      "roughness": 0.24
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "sphere-garden",
+      "litchi",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-sphere-garden-citrus",
+    "layout": "sphere-garden",
+    "treatment": {
+      "id": "citrus",
+      "background": "#161808",
+      "accent": "#c6ec55",
+      "secondary": "#f6b651",
+      "metalness": 0.4,
+      "roughness": 0.32
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "sphere-garden",
+      "citrus",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-sphere-garden-cherry",
+    "layout": "sphere-garden",
+    "treatment": {
+      "id": "cherry",
+      "background": "#230b12",
+      "accent": "#fc718a",
+      "secondary": "#dcbbff",
+      "metalness": 0.6,
+      "roughness": 0.26
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "sphere-garden",
+      "cherry",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-sphere-garden-arctic",
+    "layout": "sphere-garden",
+    "treatment": {
+      "id": "arctic",
+      "background": "#081723",
+      "accent": "#78dcff",
+      "secondary": "#bfdcff",
+      "metalness": 0.8,
+      "roughness": 0.18
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "sphere-garden",
+      "arctic",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-sphere-garden-cacao",
+    "layout": "sphere-garden",
+    "treatment": {
+      "id": "cacao",
+      "background": "#25160f",
+      "accent": "#c79973",
+      "secondary": "#dc8f98",
+      "metalness": 0.15,
+      "roughness": 0.35
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "sphere-garden",
+      "cacao",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-sphere-garden-basil",
+    "layout": "sphere-garden",
+    "treatment": {
+      "id": "basil",
+      "background": "#101c12",
+      "accent": "#91bb71",
+      "secondary": "#efd878",
+      "metalness": 0.1,
+      "roughness": 0.48
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "sphere-garden",
+      "basil",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-sphere-garden-pearl",
+    "layout": "sphere-garden",
+    "treatment": {
+      "id": "pearl",
+      "background": "#e9e5df",
+      "accent": "#797298",
+      "secondary": "#ad607e",
+      "metalness": 0.35,
+      "roughness": 0.28
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "sphere-garden",
+      "pearl",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-sphere-garden-cobalt",
+    "layout": "sphere-garden",
+    "treatment": {
+      "id": "cobalt",
+      "background": "#060e2c",
+      "accent": "#6f9bff",
+      "secondary": "#f58df6",
+      "metalness": 0.8,
+      "roughness": 0.22
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "sphere-garden",
+      "cobalt",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-sphere-garden-copper",
+    "layout": "sphere-garden",
+    "treatment": {
+      "id": "copper",
+      "background": "#1e1211",
+      "accent": "#e3a377",
+      "secondary": "#9cb7a0",
+      "metalness": 0.9,
+      "roughness": 0.29
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "sphere-garden",
+      "copper",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  },
+  {
+    "id": "background-sphere-garden-graphite",
+    "layout": "sphere-garden",
+    "treatment": {
+      "id": "graphite",
+      "background": "#111416",
+      "accent": "#b8c5cc",
+      "secondary": "#98a791",
+      "metalness": 0.95,
+      "roughness": 0.3
+    },
+    "budget": {
+      "dpr": 1.5,
+      "drawCalls": 30
+    },
+    "renderer": "three@0.180.0",
+    "quality": "Procedural 3D background preset; 12 base geometries × 10 material/color treatments",
+    "fallback": "Static CSS gradient; readable HTML and reduced-motion mode",
+    "tags": [
+      "sphere-garden",
+      "graphite",
+      "background",
+      "threejs",
+      "3d"
+    ]
+  }
+]
